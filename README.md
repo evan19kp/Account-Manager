@@ -85,16 +85,3 @@ This project showcases a **Custom Binary Search Tree (BST)** implementation in C
    ```bash
    ./account_manager
    ```
-
----
-
-## 📂 **Project Structure**
-```
-.
-├── BST_EVAN.hpp         # Custom BST implementation (header file)
-├── BST_EVAN.cpp         # Custom BST implementation (source file)
-├── Accounts.hpp         # Account Manager class (header file)
-├── Accounts.cpp         # Account Manager implementation (source file)
-├── main.cpp             # Main application entry point
-└── README.md            # Project documentation (this file)
-```
